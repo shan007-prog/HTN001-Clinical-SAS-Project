@@ -1,1 +1,27 @@
+# ADaM Programming
 
+## Overview
+
+This folder contains SAS programs used to derive analysis-ready datasets from the finalized SDTM domains for the HTN001 study.
+
+## Planned Analysis Datasets
+
+| Dataset | Description                             | Status      |
+| ------- | --------------------------------------- | ----------- |
+| ADSL    | Subject-Level Analysis Dataset          | In Progress |
+| ADVS    | Vital Signs Analysis Dataset            | Planned     |
+| ADLB    | Laboratory Analysis Dataset             | Planned     |
+| ADAE    | Adverse Event Analysis Dataset          | Planned     |
+| ADCM    | Concomitant Medication Analysis Dataset | Planned     |
+
+## Key Derivations
+
+* Treatment variables
+* Population flags
+* Baseline variables
+* Change from baseline
+* Percent change
+* Analysis dates
+* Analysis visits
+
+These datasets will be used directly for TLF generation.
